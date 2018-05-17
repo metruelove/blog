@@ -15,7 +15,7 @@ text_color_theme: chocolate #eg: default | dark | forest | ocean | chocolate | o
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: 当时年少春衫薄's blog
+title: 当时年少春衫薄
 description: > #this means to ignore newlines until "nav_lists:"
   当时年少春衫薄's Blog
 
@@ -91,7 +91,7 @@ paginate_path: /blog/page:num
 
 ## Post excerpts ##
 excerpt_separator: <!--more-->
-excerpt_type: text # text | html
+excerpt_type: html # text | html
 
 ## Sources ##
 # sources: bootcss #eg: bootcss | unpkg

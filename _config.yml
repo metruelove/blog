@@ -97,7 +97,7 @@ excerpt_type: html # text | html
 # sources: bootcss #eg: bootcss | unpkg
 
 ## Build ##
-markdown: kramdown
+markdown: kramdown kramdown: input: GFM use_coderay: true
 highlighter: rouge
 permalink: date
 

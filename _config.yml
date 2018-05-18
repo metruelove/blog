@@ -97,7 +97,7 @@ excerpt_type: html # text | html
 # sources: bootcss #eg: bootcss | unpkg
 
 ## Build ##
-markdown: kramdown
+markdown: rdiscount
 highlighter: rouge
 permalink: date
 

@@ -11,7 +11,7 @@
 #    |  |  \   --. /  .'.  \  |  |
 #    `--'   `----''--'   '--' `--'
 
-text_color_theme: chocolate #eg: default | dark | forest | ocean | chocolate | orange
+text_color_theme: forest #eg: default | dark | forest | ocean | chocolate | orange
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
@@ -97,7 +97,7 @@ excerpt_type: html # text | html
 # sources: bootcss #eg: bootcss | unpkg
 
 ## Build ##
-markdown: kramdown kramdown: input: GFM use_coderay: true
+markdown: Maruku
 highlighter: rouge
 permalink: date
 
